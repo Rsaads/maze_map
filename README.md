@@ -25,9 +25,9 @@ Lembre-se que para executar dessa forma, o arquivo deve estar incluído no diret
   
 ## Boas práticas
 
-Feito a documentação do códgio
-Utilizado a biblioteca STL
-Nome das funções de acordo com seu papel
+Feito comentários no código<br/>
+Utilizado a biblioteca STL<br/>
+Nome das funções de acordo com seu papel<br/>
 Código identado
 etc
 
