@@ -1,3 +1,5 @@
+#ifndef solution_h
+#define solution_h
 #include <iostream>
 #include <string>
 #include <vector>
@@ -14,3 +16,4 @@ class solution{
     bool findSolution(std::vector<std::string> map, pos inicial,pos finall);        //Método base da IA
     void printmap(int line,int column);                                             //Método que imprime a matriz que contem a solução(ou não)
 };
+#endif

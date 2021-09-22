@@ -1,3 +1,5 @@
+#ifndef maze_h
+#define maze_h
 #include "position.h"
 #include "readfile.h"
 #include "solution.h"
@@ -17,3 +19,4 @@ class maze{
     void findPos(int line,int column);      //Método para achar a opsição inicial
 
 };
+#endif

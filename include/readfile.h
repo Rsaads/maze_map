@@ -1,3 +1,5 @@
+#ifndef readfile_h
+#define readfile_h
 #include <vector>
 #include <iostream>
 #include <fstream>
@@ -17,3 +19,4 @@ class readfile{
     int getcolumn();                    //Método que retorna o numero de colunas
     int getlines();                     //Método que retorna o numero de linhas
 };
+#endif
